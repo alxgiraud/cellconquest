@@ -18,7 +18,7 @@ Each faction share some randomly assigned attributes.
 Attribute | Definition
 ------------ | -------------
 Lifespan | Period of time for which a cell live or is expected to live.
-Spread Chance | Probablity of an adjacent cell to be conquered by a faction each cycle
+Spread Chance | Probability of an adjacent cell to be conquered by a faction each cycle
 Required Neighbors | Amount of adjacent cells (diagonals included) required for spreading
 Attack Bonus | Increase the probability of a successful attack
 Defense Bonus | Increase the probability of a successful defense
