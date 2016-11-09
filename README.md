@@ -13,7 +13,7 @@ If the cell is already occupied by another faction, the factions will fight.
 The chance of success is calculated using the following formula:
 `50% + Attack Bonus (assailant) - Defense Bonus (defender)`
 
-Each faction share some randomly assigned attributes.
+All the factions share attributes with randomly values assigned.
 
 Attribute | Definition
 ------------ | -------------
