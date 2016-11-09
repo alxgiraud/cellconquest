@@ -1,0 +1,80 @@
+[v-cloak] {
+    display: none;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+#parameters {
+    overflow-y: hidden;
+    max-height: 700px;
+    transition-property: all;
+    transition-duration: .8s;
+    transition-timing-function: .8;
+}
+
+#parameters.closed {
+    max-height: 0;
+}
+
+.input-group-middle {
+    border-left: 0;
+    border-right: 0;
+}
+
+@media(min-width: 768px) {
+    .checkbox-centered {
+        margin-top: 30px;
+    }
+    .mark-tooltip-centered {
+        margin-top: 30px;
+        margin-left: 5px;
+    }
+}
+
+@media(max-width: 767px) {
+    .mark-tooltip-centered {
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+}
+
+.mark-tooltip {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.container-parameters {
+    margin-top: 10px;
+}
+
+#grid {
+    padding: 10px 0;
+}
+
+#svgGrid {
+    outline: 0.3px solid black;
+    display: block;
+    margin: auto;
+}
+
+.container-panel-faction {
+    padding: 10px;
+}
+
+.panel-faction {
+    padding: 0 10px
+}
+
+.list-group-item-text {
+    padding-left: 5px;
+}
+
+.gray-icon {
+    color: lightgray;
+}
+
+.footer-link {
+    padding-bottom: 10px;
+}
