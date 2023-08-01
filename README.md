@@ -1,7 +1,5 @@
 # Cell Conquest
 
-### http://cellconquest.herokuapp.com/
-
 **Cell Conquest** is a web application using [Vue.js](https://github.com/vuejs/vue) and [d3.js](https://github.com/d3/d3).
 
 It simulates the evolution of randomly generated cell factions in a grid.
